@@ -34,3 +34,18 @@ end
 
 def turn 
 end 
+
+def turn_count 
+end 
+
+def current_player 
+end 
+
+def won? 
+end 
+
+def full? 
+end 
+
+def draw? 
+end 
