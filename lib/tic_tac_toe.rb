@@ -29,3 +29,8 @@ end
 def position_taken?
 end 
 
+def valid_move?
+end 
+
+def turn 
+end 
